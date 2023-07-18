@@ -30,7 +30,7 @@ This is a simple to-do list application built using Python and Tkinter. The appl
 1. Run the application:
 
    ```
-   python todo.py
+   python TO-DO-LIST.py
    ```
 
 2. The application window will open. You can start adding tasks to the list.
