@@ -1,5 +1,4 @@
 # Task-Keeper
-The To-Do List Application is a Python-based task manager created with Tkinter. It enables users to easily add, delete, and manage tasks within a user-friendly interface. The application utilizes a SQLite database to store tasks, ensuring persistence across sessions. It offers a straightforward and efficient solution for organizing and staying on top of daily tasks and responsibilities.
 
 # To-Do List Application
 
