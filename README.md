@@ -2,6 +2,8 @@
 
 # To-Do List Application
 
+![TO-DO-LIST Application](https://github.com/Rhitik11/Task-Keeper/assets/101624751/54eeee0e-4b23-4932-a8ef-3fc92c6719be)
+
 This is a simple to-do list application built using Python and Tkinter. The application allows you to add tasks, delete tasks, delete all tasks, and display the list of tasks.
 
 ## Features
