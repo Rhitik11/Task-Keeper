@@ -19,19 +19,7 @@ This is a simple to-do list application built using Python and Tkinter. The appl
 
 ## Installation
 
-1. Clone the repository:
-
-   ```
-   git clone https://github.com/your-username/to-do-list.git
-   ```
-
-2. Change to the project directory:
-
-   ```
-   cd to-do-list
-   ```
-
-3. Install the dependencies:
+1. Install the dependencies:
 
    ```
    pip install -r requirements.txt
